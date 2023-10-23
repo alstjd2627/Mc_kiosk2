@@ -12,7 +12,7 @@ public class Order {
     static ArrayList<Product> sides = new ArrayList<>();
 
     static void printMainMenu() throws InterruptedException {
-        System.out.println("Mc에 오신것을 환영합니다.");
+        System.out.println("맥도날드에 오신것을 환영합니다.");
         System.out.println("아래 메뉴판을 보시고 메뉴를 골라주세요");
         System.out.println();
         System.out.println("[Menu]");
