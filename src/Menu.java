@@ -1,9 +1,8 @@
 public class Menu {
-    String menuName;
-    String menuDescription;
-
-    Menu(String menuName, String menuDescription){
-        this.menuName = menuName;
-        this.menuDescription = menuDescription;
+    String name;
+    String description;
+    Menu(String name, String description){
+        this.name = name;
+        this.description = description;
     }
 }
